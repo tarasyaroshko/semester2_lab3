@@ -3,9 +3,6 @@ Notebook implementation module
 """
 import datetime
 import sys
-from tabnanny import check
-
-from idna import check_bidi
 # the id available for the next note  
 available_id = 0
 
